@@ -1,4 +1,4 @@
-package: .
+package: github.com/spiffe/aws-role-attestor
 import:
 - package: github.com/aws/aws-sdk-go
   version: v1.12.26
